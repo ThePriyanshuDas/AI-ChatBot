@@ -6,7 +6,7 @@ A sleek, responsive chatbot popup interface built using pure HTML and CSS. This 
 
 ## 📸 Preview
 
-![Chatbot UI Preview](Chatbot Screeenshot.png)  
+![Chatbot UI Preview](Screeenshot.png)  
 *Example preview of the chatbot layout*
 
 ---
